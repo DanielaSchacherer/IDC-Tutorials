@@ -71,6 +71,7 @@ This folder contains notebooks that demonstrate the usage of the data in the spe
 * [RMS-Mutation-Prediction collection exploration](https://github.com/ImagingDataCommons/IDC-Tutorials/tree/master/notebooks/collections_demos/rms_mutation_prediction): notebooks in this folder demonstrate selecting images from the `RMS-Mutation-Prediction` collection based on various attributes of images and expert annotations.
 * [NLST collection exploration](https://github.com/ImagingDataCommons/IDC-Tutorials/blob/master/notebooks/collections_demos/nlst_exploration.ipynb): explanation of the content included in the IDC NLST collection, and how it is different from the NLST collection you will find in TCIA.
 * [Working with NLST clinical data in IDC](https://github.com/ImagingDataCommons/IDC-Tutorials/blob/master/notebooks/collections_demos/nlst_clinical_data.ipynb): demonstration of how to access and search clinical data tables accompanying the IDC NLST collection, and how to combine clinical data with imaging metadata.
+* [Working with bone marrow smears from the BoneMarrowWSI-PediatricLeukemia collection](https://github.com/ImagingDataCommons/IDC-Tutorials/blob/master/notebooks/collections_demos/bonemarrowwsi_pediatricleukemia.ipynb): demonstration of how to access and use the bone marrow smear WSIs and extensive expert annotations (regions-of-interest, > 40 000 cells with and without cell type information) contained in this collection. 
 
 ## [`pathomics`](https://github.com/ImagingDataCommons/IDC-Tutorials/tree/master/notebooks/pathomics)
 
