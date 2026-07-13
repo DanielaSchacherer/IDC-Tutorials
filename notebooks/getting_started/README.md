@@ -57,7 +57,7 @@ If you prefer not to use Google Colab, the beginner level notebook can be execut
   This tutorial will introduce you to the basic capabilities of [`idc-index` python package](https://github.com/ImagingDataCommons/idc-index). In this tutorial we will learn how `idc-index` can help you to:
   * download files corresponding to the collections/patients/images you selected in the IDC Portal
   * use the metadata accompanying IDC images to build cohorts
-  * visualize images from your cohort
+  * visualize images from your cohort, both in IDC's embedded web viewer and as an interactive in-notebook 3D rendering of an image with its segmentation overlay (using [ipyniivue](https://github.com/niivue/ipyniivue))
   * download files corresponding to the cohort
   * access license and citations for your cohort
 
